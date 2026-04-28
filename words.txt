@@ -21,7 +21,6 @@ below
 cabin
 cable
 cache
-cactus
 daily
 dairy
 dance
@@ -77,7 +76,6 @@ input
 issue
 ivory
 irony
-item
 jelly
 jewel
 joint
@@ -90,7 +88,6 @@ jaunt
 jaded
 karma
 kayak
-keenly
 kneel
 knife
 knock
@@ -180,13 +177,11 @@ samey
 sandy
 table
 taken
-talent
 tally
 tango
 taste
 teach
 tempo
-tenant
 tense
 ultra
 under
@@ -233,8 +228,6 @@ youth
 yodel
 yeast
 yucky
-yearly
-yawned
 yipes
 zebra
 zesty
@@ -388,3 +381,15 @@ shoot
 worry
 furry
 train
+creed
+crazy
+sweet
+sweat
+sugar
+honey
+legal
+crate
+crest
+crust
+rusty
+fight
