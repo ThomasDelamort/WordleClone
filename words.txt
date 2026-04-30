@@ -526,3 +526,6 @@ zooms
 zippy
 zappy
 float
+power
+speed
+stick
