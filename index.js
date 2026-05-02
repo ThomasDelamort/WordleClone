@@ -1,10 +1,3 @@
-
-/*
-=========================================
-WORDLE GAME (FULL VERSION + GIVE UP)
-=========================================
-*/
-
 let tiles;
 let currentRow = 0;
 let currentCol = 0;
